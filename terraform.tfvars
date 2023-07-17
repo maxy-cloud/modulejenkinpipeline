@@ -1,0 +1,6 @@
+  size = "t2.micro"
+  ubuntuami = "ami-0136ddddd07f0584f"
+  //privatesubnet = "subnet-04004d399ad22d48a"
+  publicsubnet = "subnet-038adf4467aea1bc8"
+  keypair = "TF_key"
+  //sec_group = "sg-067695ed1d62ab368"
