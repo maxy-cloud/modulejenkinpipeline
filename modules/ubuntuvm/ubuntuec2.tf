@@ -9,7 +9,7 @@ resource "aws_instance" "ubuntumod" {
  associate_public_ip_address          = true 
 
   tags = {
-    Name = "EC2-Ubuntu-VPC-Mod-TF-3"
+    Name = "EC2-Ubuntu-Mod-Pipeline-1"
   }
 }
  
